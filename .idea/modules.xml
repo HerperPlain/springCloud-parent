@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka_client/eureka_client.iml" filepath="$PROJECT_DIR$/eureka_client/eureka_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/eureka_server/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-mq/server-mq.iml" filepath="$PROJECT_DIR$/server-mq/server-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-config-client/service-config-client.iml" filepath="$PROJECT_DIR$/service-config-client/service-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-config-server/service-config-server.iml" filepath="$PROJECT_DIR$/service-config-server/service-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud-parent.iml" filepath="$PROJECT_DIR$/springCloud-parent.iml" />
+    </modules>
+  </component>
+</project>
