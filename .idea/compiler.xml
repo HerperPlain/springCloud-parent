@@ -8,10 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka_client" />
         <module name="eureka_server" />
-        <module name="server-mq" />
+        <module name="server-rabbitmq" />
+        <module name="service-common" />
+        <module name="service-common-util" />
         <module name="service-config-client" />
         <module name="service-config-server" />
         <module name="service-feign" />
+        <module name="service-rabbitmq" />
+        <module name="service-rabbitmq-send-center" />
         <module name="service-ribbon" />
         <module name="springCloud-parent" />
       </profile>
@@ -20,9 +24,14 @@
       <module name="eureka_client" target="1.8" />
       <module name="eureka_server" target="1.8" />
       <module name="server-mq" target="1.8" />
+      <module name="server-rabbitmq" target="1.8" />
+      <module name="service-common" target="1.8" />
+      <module name="service-common-util" target="1.8" />
       <module name="service-config-client" target="1.8" />
       <module name="service-config-server" target="1.8" />
       <module name="service-feign" target="1.8" />
+      <module name="service-rabbitmq" target="1.8" />
+      <module name="service-rabbitmq-send-center" target="1.8" />
       <module name="service-ribbon" target="1.8" />
       <module name="springCloud-parent" target="1.5" />
     </bytecodeTargetLevel>

@@ -4,10 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eureka_client/eureka_client.iml" filepath="$PROJECT_DIR$/eureka_client/eureka_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/eureka_server/eureka_server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/server-mq/server-mq.iml" filepath="$PROJECT_DIR$/server-mq/server-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-rabbitmq/server-mq.iml" filepath="$PROJECT_DIR$/service-rabbitmq/server-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-rabbitmq/server-rabbitmq.iml" filepath="$PROJECT_DIR$/service-rabbitmq/server-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-common/service-common.iml" filepath="$PROJECT_DIR$/service-common/service-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-config-client/service-config-client.iml" filepath="$PROJECT_DIR$/service-config-client/service-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-config-server/service-config-server.iml" filepath="$PROJECT_DIR$/service-config-server/service-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-rabbitmq/service-rabbitmq.iml" filepath="$PROJECT_DIR$/service-rabbitmq/service-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-rabbitmq-send-center/service-rabbitmq-send-center.iml" filepath="$PROJECT_DIR$/service-rabbitmq-send-center/service-rabbitmq-send-center.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/springCloud-parent.iml" filepath="$PROJECT_DIR$/springCloud-parent.iml" />
     </modules>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="28c3ac3f-dfa2-44c9-91c2-875dd3163615" name="no commit" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
     <list default="true" id="6eebd317-d798-41b9-9717-c31ec5e1c662" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service-common" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service-common/.mvn" />
@@ -137,6 +134,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eureka_client/pom.xml" afterPath="$PROJECT_DIR$/eureka_client/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eureka_client/src/main/java/com/hpsgts/cloud/eureka_client/EurekaClientApplication.java" afterPath="$PROJECT_DIR$/eureka_client/src/main/java/com/hpsgts/cloud/eureka_client/EurekaClientApplication.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eureka_client/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/eureka_client/src/main/resources/application.properties" />
@@ -641,7 +639,7 @@
       <workItem from="1511788708591" duration="258000" />
       <workItem from="1512137374957" duration="2154000" />
       <workItem from="1512212734834" duration="3593000" />
-      <workItem from="1512358413353" duration="12319000" />
+      <workItem from="1512358413353" duration="12330000" />
     </task>
     <task id="LOCAL-00001" summary="修改配置文件">
       <created>1512138359022</created>
@@ -657,11 +655,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512213149997</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="no commit">
+      <created>1512391290522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1512391290522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29506000" />
+    <option name="totallyTimeSpent" value="29517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -771,7 +776,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="修改配置文件" />
     <MESSAGE value="修改配置文件:添加mq支持" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改配置文件:添加mq支持" />
+    <MESSAGE value="no commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="no commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

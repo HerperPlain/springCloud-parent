@@ -14,10 +14,17 @@
         <option value="$PROJECT_DIR$/service-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/service-config-client/pom.xml" />
         <option value="$PROJECT_DIR$/server-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/service-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/service-rabbitmq-send-center/pom.xml" />
+        <option value="$PROJECT_DIR$/service-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/service-common/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
   </component>
 </project>
