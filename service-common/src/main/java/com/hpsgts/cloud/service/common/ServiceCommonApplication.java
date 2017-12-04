@@ -1,12 +1,12 @@
-package com.hpsgts.cloud.servermq;
+package com.hpsgts.cloud.service.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ServerMqApplication {
+public class ServiceCommonApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ServerMqApplication.class, args);
+		SpringApplication.run(ServiceCommonApplication.class, args);
 	}
 }
