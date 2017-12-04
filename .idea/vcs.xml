@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/service-common" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/service-rabbitmq" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/service-rabbitmq-send-center" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/service-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/service-rabbitmq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/service-rabbitmq-send-center" vcs="Git" />
   </component>
 </project>
