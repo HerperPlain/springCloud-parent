@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="6eebd317-d798-41b9-9717-c31ec5e1c662" name="Default" comment="项目架构：rabbitmq">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" readonly="true" id="6eebd317-d798-41b9-9717-c31ec5e1c662" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -123,8 +121,8 @@
       <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="25" column="58" lean-forward="true" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+            <state relative-caret-position="396">
+              <caret line="29" column="51" lean-forward="true" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -627,7 +625,7 @@
       <workItem from="1512212734834" duration="3593000" />
       <workItem from="1512358413353" duration="12715000" />
       <workItem from="1512392029043" duration="552000" />
-      <workItem from="1512392844025" duration="167000" />
+      <workItem from="1512392844025" duration="204000" />
     </task>
     <task id="LOCAL-00001" summary="修改配置文件">
       <created>1512138359022</created>
@@ -650,11 +648,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512391290522</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="项目架构：修改代码仓储地址">
+      <created>1512393044556</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1512393044556</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30621000" />
+    <option name="totallyTimeSpent" value="30658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -766,7 +771,8 @@
     <MESSAGE value="修改配置文件:添加mq支持" />
     <MESSAGE value="no commit" />
     <MESSAGE value="项目架构：rabbitmq" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目架构：rabbitmq" />
+    <MESSAGE value="项目架构：修改代码仓储地址" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目架构：修改代码仓储地址" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1121,8 +1127,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="25" column="58" lean-forward="true" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+        <state relative-caret-position="396">
+          <caret line="29" column="51" lean-forward="true" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
           <folding />
         </state>
       </provider>
