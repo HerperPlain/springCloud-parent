@@ -27,7 +27,7 @@ public class SQLMessage implements Message{
     public String toJsonString() {
         Map<String,Object> items = new HashMap<String,Object>();
         items.put("msgtype",MSG_TYPE);
-        Map<String,String> textMessage = new HashMap<>();
+        Map<String,String> textMessage = new HashMap<String,String>();
         textMessage.put("content",sqlText);
         textMessage.put("params",null);
 
